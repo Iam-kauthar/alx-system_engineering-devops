@@ -1,1 +1,1 @@
-my reade shell
+my shell readme
