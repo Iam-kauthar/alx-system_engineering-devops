@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 grep root /etc/passwd
+=======
+grep root /rtc/passwd
+>>>>>>> 61bb56a880d1c8b90cacd597f427dbdd5ae23c9d
